@@ -15,4 +15,3 @@ i = 0
 while wczytana != i:
     wczytana = input("Podaj liczbe: \n")
     i = randint(0,9)
-
